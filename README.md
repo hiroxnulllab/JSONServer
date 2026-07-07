@@ -54,7 +54,6 @@ JSONServer turns that limitation into a feature. It gives you a **complete REST 
 - [PythonAnywhere Deployment](#pythonanywhere-deployment)
 - [Testing](#testing)
 - [Project Structure](#project-structure)
-- [HiroDev Workspace](#hirodev-workspace)
 - [License](#license)
 
 ---
